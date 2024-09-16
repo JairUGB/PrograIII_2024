@@ -4,7 +4,7 @@
 # que gestiona la asignación de predicadores a fechas en el calendario. El programa permite al usuario 
 # ingresar los nombres de los predicadores para los días de la semana (sábado, miércoles, domingo) y 
 # calcula automáticamente qué fechas del mes corresponden a estos días. Finalmente, muestra el rol completo 
-# con los días y las fechas asignadas a cada predicador, facilitando así la planificación y coordinación de las predicaciones.
+# gitcon los días y las fechas asignadas a cada predicador, facilitando así la planificación y coordinación de las predicaciones.
 
 import calendar
 
